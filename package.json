@@ -1,0 +1,23 @@
+{
+  "name": "api-playwright.ts",
+  "version": "1.0.0",
+  "description": "Proyecto API con Playwright y Typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-salvador/api-playwright.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manu-salvador/api-playwright.ts/issues"
+  },
+  "homepage": "https://github.com/manu-salvador/api-playwright.ts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
