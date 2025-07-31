@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-  test.describe('Casos de interfaz - Json Place Holder', () => {
+  test.describe('Casos de interfaz - GoRest API', () => {
 
     const token = 'Bearer 1342194d39a0f104bc26c2638f6ef57d5857daa8d6ae2a960bb77c2b812e80a3';
     
